@@ -17,6 +17,9 @@ Tenho 18 anos, Moro em São Bernardo do Campo/SP e sempre gostei da área de pro
   </a>
 </div>
 
+![Snake animation](https://github.com/franciscgg/franciscgg/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
