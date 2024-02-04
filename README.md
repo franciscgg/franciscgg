@@ -1,16 +1,26 @@
-### Hi there 👋
+# Francisco Hélio
 
-<!--
-**franciscgg/franciscgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, Devs!!
+Tenho 18 anos, Moro em São Bernardo do Campo/SP e sempre gostei da área de programação e sempre estou atrás de mais conhecimento! Sou iniciante no universo da programação, quanto mais estudo mais problema aparece e passo mais raiva tirando isso,eu amo isso programação!🙂
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/franciscgg/franciscgg/assets/113110382/b1ec00f6-b549-4d5b-b463-d91b2c102e00" alt="gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Estou aprendendo
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+
+<div>
+  <a href="https://github.com/franciscgg">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscgg&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscgg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
+![Snake animation](https://github.com/franciscgg/franciscgg/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
