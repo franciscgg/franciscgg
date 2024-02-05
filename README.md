@@ -20,7 +20,7 @@ Tenho 18 anos, Moro em São Bernardo do Campo/SP e sempre gostei da área de pro
 </div>
 
 
-<h2>⚡Stats⚡</h2>
+<h2>⚡Stats</h2>
 <div>
   <a href="https://github.com/franciscgg">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscgg&layout=compact&langs_count=7&theme=radical&bg_color=FFD1DF&text_color=FF0067"/>
