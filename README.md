@@ -7,8 +7,10 @@ Tenho 18 anos, Moro em São Bernardo do Campo/SP e sempre gostei da área de pro
   <img src="https://github.com/franciscgg/franciscgg/assets/113110382/b1ec00f6-b549-4d5b-b463-d91b2c102e00" alt="gif">
 </p>
 
-<h2>🖥️ Estou aprendendo</h2>
-<div>
+<h2>🖥️ Principais tecnologias:</h2>
+<div> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
