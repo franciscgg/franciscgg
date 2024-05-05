@@ -1,14 +1,15 @@
 <div align="center">
   
-  <h1>Francisco Hélio</h1>
+### Olá, eu sou o Francisco Hélio 👋
 
   <p>Tenho 18 anos, Moro em São Bernardo do Campo/SP e sempre gostei da área de programação e sempre estou atrás de mais conhecimento! Sou iniciante no universo da programação, quanto mais estudo mais problema aparece e passo mais raiva tirando isso, eu amo programação!🙂</p>
 
   <p align="center">
-    <img src="https://github.com/franciscgg/franciscgg/assets/113110382/b1ec00f6-b549-4d5b-b463-d91b2c102e00" alt="gif">
-  </p>
+  <img src="https://github.com/franciscgg/franciscgg/assets/113110382/b1ec00f6-b549-4d5b-b463-d91b2c102e00" alt="gif" autoplay>
+</p>
 
-  <h2>🖥️ Principais tecnologias:</h2>
+
+  <h2>🖥️ Technologies in Learning</h2>
   <div> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
