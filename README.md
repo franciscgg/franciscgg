@@ -22,11 +22,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>        
   </div>
 
-<h2>⚡Stats</h2>
-  <div>
-    <a href="https://github.com/franciscgg">
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscgg&layout=compact&langs_count=7&theme=radical&bg_color=FFD1DF&text_color=FF0067"/>
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscgg&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=FFD1DF&text_color=FF0067"/>
-    </a>
+
+## 📊 GitHub Stats & Languages
+
+<a href="https://github.com/franciscgg">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscgg&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=FFD1DF&text_color=FF0067" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/franciscgg">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscgg&layout=compact&langs_count=7&theme=radical&bg_color=FFD1DF&text_color=FF0067" alt="Top Languages" />
+</a>
+
+
+
+
   </div>
 </div>
