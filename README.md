@@ -2,7 +2,7 @@
   
 ### Olá, eu sou o Francisco Hélio 👋
 
-<p>Tenho 18 anos, moro em São Bernardo do Campo/SP e sempre gostei da área de programação. Estou sempre buscando mais conhecimento! Sou iniciante no universo da programação e, quanto mais estudo, mais problemas aparecem, mas isso não me desanima, pois eu amo programação! 🙂</p>
+<p>Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, com foco em programação. Estou sempre em busca de mais conhecimento e, embora enfrente desafios e problemas à medida que estudo, minha paixão por programação me mantém motivado e empenhado em superar cada obstáculo.🙂</p>
 
 <p align="center">
   <img src="https://github.com/franciscgg/franciscgg/assets/113110382/b1ec00f6-b549-4d5b-b463-d91b2c102e00" alt="gif" autoplay>
@@ -10,6 +10,7 @@
 
 ## 🖥️ Technologies in Learning
 
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 [![Spring Boot](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
 [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)
@@ -26,6 +27,7 @@
 <a href="https://github.com/franciscgg">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscgg&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=FFD1DF&text_color=FF0067" alt="GitHub Stats" />
 </a>
+
 
 <a href="https://github.com/franciscgg">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscgg&layout=compact&langs_count=7&theme=radical&bg_color=FFD1DF&text_color=FF0067" alt="Top Languages" />
