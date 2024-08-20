@@ -11,6 +11,7 @@
 ## 🖥️ Technologies in Learning
 
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
+[![Google Cloud](https://skillicons.dev/icons?i=gcp&theme=dark)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 [![Spring Boot](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
 [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)
